@@ -6,8 +6,7 @@ This repository is the first part of a big project. We will create a clone of Ai
 
 
 # How to start it
-git clone https://github.com/Sb0009/holbertonschool-AirBnB_clone.git
-
+git clone https://github.com/Noluyolo97/holbertonschool-AirBnB_clone.git
 ---
 # How to use
 We will see the different commands that we can use in our Interpreter
@@ -23,7 +22,7 @@ We will see the different commands that we can use in our Interpreter
 
 # Authors
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="siham-b-523a36230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/siham-badyine-523a36230?trk=profile-badge">Siham B.</a></div>
+https://www.linkedin.com/in/noluyolo-ndungane-398917168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0twu8VlHSGOIzu99pq8fKw%3D%3D
 
 Noluyolo Ndungane 
 
